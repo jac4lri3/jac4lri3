@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A64D79&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C68FE6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A64D79&size=35&center=true&vCenter=true&width=1000&lines=+Welcome+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C68FE6&size=35&center=true&vCenter=true&width=1000&lines=+Welcome+)](https://git.io/typing-svg)
 
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jac4lri3&hide_progress=true&theme=aura" alt="ilustração do status do github">
@@ -9,7 +9,7 @@
 
 # Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/>
 <br>
 <br>
 <br>
@@ -20,4 +20,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A64D79&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C68FE6&height=120&section=footer"/>
