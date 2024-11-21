@@ -9,7 +9,7 @@
 
 # Learning
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" width="40" height="40"/><img src="https://img.icons8.com/?size=512&id=40670&format=png"width="40" width="40" height="40"/>
 <br>
 <br>
 <br>
