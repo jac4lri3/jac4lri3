@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A1E55&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A64D79&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A1E55&size=35&center=true&vCenter=true&width=1000&lines=+Welcome+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A64D79&size=35&center=true&vCenter=true&width=1000&lines=+Welcome+)](https://git.io/typing-svg)
 
 <div style="display: flex;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jac4lri3&hide_progress=true&theme=aura" alt="ilustração do status do github">
@@ -20,4 +20,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A1E55&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A64D79&height=120&section=footer"/>
